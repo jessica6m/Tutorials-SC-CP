@@ -22,3 +22,17 @@ iframe, .logo {
   padding-bottom: 4vw;
 }
 
+  .page, a:link, a:visited {
+  background-color: navy;
+  color: white;
+  padding: 14px 25px;
+  font-family: 'ABeeZee', 'Ariel';
+  border-radius: 12px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+ a:hover, a:active {
+  background-color: #30FFFF;
+}
