@@ -1,0 +1,23 @@
+
+.header {
+  color: navy;
+  text-align: center;
+  font-family: 'ABeeZee';
+  font-size: 3vw;
+  text-shadow: 1px 1px #30FFFF;
+  padding-bottom: 3vw;
+}
+
+.name, .topic {
+  text-align: center;
+  color: navy;
+  font-family: 'ABeeZee';
+  font-size: 1.5vw;
+  text-shadow: 1px 1px #30FFFF;
+}
+
+iframe {
+  display: block;
+  margin: 0 auto;
+  padding-bottom: 4vw;
+}
